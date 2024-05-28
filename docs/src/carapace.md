@@ -1,3 +1,5 @@
+> `June 13 & 14`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
+
 # Carapace
 
 A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** and **[binary](https://github.com/carapace-sh/carapace-bin)**.
