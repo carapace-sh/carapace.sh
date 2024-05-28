@@ -1,4 +1,4 @@
-> `June 13 & 14`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
+> `June 13`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
 
 # Carapace
 
