@@ -6,7 +6,7 @@ A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** 
 
 ![108x24@0:38](./carapace/carapace-bin.cast)
 
-<center><h1><strong><u><a href="https://carapace-sh.github.io/carapace-bin/installation.html">Install</a></u> and <u><a href="https://carapace-sh.github.io/carapace-bin/setup.html">Setup</a></u></strong></h1></center>
+<center><h1><strong><u><a href="https://carapace-sh.github.io/carapace-bin/install.html">Install</a></u> and <u><a href="https://carapace-sh.github.io/carapace-bin/setup.html">Setup</a></u></strong></h1></center>
 
 ## Vibrant
 
