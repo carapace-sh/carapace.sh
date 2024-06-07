@@ -7,7 +7,7 @@ title = "carapace"
 description = "A multi-shell completion library and binary. Supports Bash, Elvish, Fish, Nushell, Oil, Powershell, Xonsh and Zsh."
 
 [output.html]
-default-theme = "Latte"
+default-theme = "Mocha"
 preferred-dark-theme = "Mocha"
 additional-css = ["asciinema/asciinema-player.css", "./theme/catppuccin.css", "./theme/custom.css"]
 additional-js = ["asciinema/asciinema-player.min.js", "asciinema/load.js"]
