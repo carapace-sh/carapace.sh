@@ -1,6 +1,6 @@
 > `June 13, 10:00am-2:00pm`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
 
-# Carapace <div style="float:right;"><a href="https://github.com/carapace-sh"><i class="fa fa-github"></i></a> <a href="https://mastodon.social/@carapace_sh"><i class="fa fa-mastodon"></i></a> <a href="https://matrix.to/#/%23carapace-sh:matrix.org"><i class="fa fa-matrix-org"></i></a> <a href="https://pixelfed.social/carapace_sh"><i class="fa fa-pixelfed"></i></a></div>
+# Carapace <div style="float:right;"><a href="https://github.com/carapace-sh"><img height="26em" src="icons/github.svg" /></a> <a href="https://mastodon.social/@carapace_sh"><img height="26em" src="icons/mastodon.svg" /></a> <a href="https://matrix.to/#/%23carapace-sh:matrix.org"><img height="26em" src="icons/matrix.svg" /></a> <a href="https://pixelfed.social/carapace_sh"><img height="26em" src="icons/pixelfed.svg" /></a></div>
 
 A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** and **[binary](https://github.com/carapace-sh/carapace-bin)**.
 
