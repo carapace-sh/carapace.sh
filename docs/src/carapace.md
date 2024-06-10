@@ -1,4 +1,4 @@
-> `June 13, 10:00am-2:00pm`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
+> `June 13, 8:30am-2:00pm`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
 
 # Carapace <div style="float:right;"><a href="https://github.com/carapace-sh"><img height="26em" src="icons/github.svg" /></a> <a href="https://mastodon.social/@carapace_sh"><img height="26em" src="icons/mastodon.svg" /></a> <a href="https://matrix.to/#/%23carapace-sh:matrix.org"><img height="26em" src="icons/matrix.svg" /></a> <a href="https://pixelfed.social/carapace_sh"><img height="26em" src="icons/pixelfed.svg" /></a></div>
 
