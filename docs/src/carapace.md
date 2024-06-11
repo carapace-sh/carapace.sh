@@ -1,4 +1,8 @@
-> `June 13, 8:30am-2:00pm`: **Open Source Fair** at [THE MERGE](https://merge.berlin)
+> ![](./carapace/hello.png)
+> 
+> Hello [THE MERGE](https://merge.berlin)!
+>
+> Start with [READ](https://pixi.carapace.sh) and come to my booth on the **Open Source Fair** (`June 13, 8:30am-2:00pm`).
 
 # Carapace <div style="float:right;"><a href="https://github.com/carapace-sh"><img height="26em" src="icons/github.svg" /></a> <a href="https://mastodon.social/@carapace_sh"><img height="26em" src="icons/mastodon.svg" /></a> <a href="https://matrix.to/#/%23carapace-sh:matrix.org"><img height="26em" src="icons/matrix.svg" /></a> <a href="https://pixelfed.social/carapace_sh"><img height="26em" src="icons/pixelfed.svg" /></a></div>
 
@@ -6,7 +10,8 @@ A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** 
 
 ![108x24@0:38](./carapace/carapace-bin.cast)
 
-<center><h1><strong><u><a href="https://carapace-sh.github.io/carapace-bin/install.html">Install</a></u> and <u><a href="https://carapace-sh.github.io/carapace-bin/setup.html">Setup</a></u></strong></h1></center>
+<center><h1><strong><u><a href="https://pixi.carapace.sh">Read</a></u>,</strong></h1></center>
+<center><h1><strong><u><a href="https://carapace-sh.github.io/carapace-bin/install.html">Install</a></u> and <u><a href="https://carapace-sh.github.io/carapace-bin/setup.html">Setup</a></u>.</strong></h1></center>
 
 ## Vibrant
 
