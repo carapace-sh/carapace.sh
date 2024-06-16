@@ -1,9 +1,3 @@
-> ![](./carapace/hello.png)
-> 
-> Hello [THE MERGE](https://merge.berlin)!
->
-> Start with [Read](https://pixi.carapace.sh) and come to my booth on the **Open Source Fair** (`June 13, 8:30am-2:00pm`).
-
 # Carapace <div style="float:right;"><a href="https://github.com/carapace-sh"><img height="26em" src="icons/github.svg" /></a> <a href="https://mastodon.social/@carapace_sh"><img height="26em" src="icons/mastodon.svg" /></a> <a href="https://matrix.to/#/%23carapace-sh:matrix.org"><img height="26em" src="icons/matrix.svg" /></a> <a href="https://pixelfed.social/carapace_sh"><img height="26em" src="icons/pixelfed.svg" /></a></div>
 
 A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** and **[binary](https://github.com/carapace-sh/carapace-bin)**.
