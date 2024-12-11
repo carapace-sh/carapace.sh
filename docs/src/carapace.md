@@ -2,7 +2,7 @@
 
 A multi-shell completion **[library](https://github.com/carapace-sh/carapace)** and **[binary](https://github.com/carapace-sh/carapace-bin)**.
 
-![108x24@0:38](./carapace/carapace-bin.cast)
+![](./opengraph.png)
 
 <center><h1><strong><u><a href="https://pixi.carapace.sh">Read</a></u>,</strong></h1></center>
 <center><h1><strong><u><a href="https://carapace-sh.github.io/carapace-bin/install.html">Install</a></u> and <u><a href="https://carapace-sh.github.io/carapace-bin/setup.html">Setup</a></u>.</strong></h1></center>
