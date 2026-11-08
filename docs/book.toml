@@ -1,7 +1,6 @@
 [book]
 authors = ["rsteube"]
 language = "en"
-multilingual = false
 src = "src"
 title = "carapace"
 description = "A multi-shell completion library and binary."
@@ -9,13 +8,14 @@ description = "A multi-shell completion library and binary."
 [output.html]
 default-theme = "Mocha"
 preferred-dark-theme = "Mocha"
-additional-css = ["asciinema/asciinema-player.css", "./theme/catppuccin.css", "./theme/custom.css"]
-additional-js = ["asciinema/asciinema-player.min.js", "asciinema/load.js"]
+additional-css = ["./theme/catppuccin.css", "./theme/custom.css"]
 git-repository-url = "https://github.com/carapace-sh/carapace.sh"
 edit-url-template = "https://github.com/carapace-sh/carapace.sh/edit/master/docs/{path}"
 
 [output.html.fold]
 enable = true
 
-[output.linkcheck]
-follow-web-links = true
+[preprocessor.asciinema]
+
+#[output.linkcheck]
+#follow-web-links = true
