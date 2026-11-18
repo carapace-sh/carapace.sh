@@ -1,0 +1,39 @@
+h3 {
+  line-height: 1.45em;
+  margin-block-start: 1em;
+  margin-block-end: 0;
+  font-size: 1.6rem;
+  font-weight: initial;
+}
+
+#menu-bar-hover-placeholder {
+  position: relative;
+  pointer-events: none;
+  height: 0;
+}
+
+/* Homepage title icons */
+#carapace > .carapace-title-icons,
+h1#carapace .carapace-title-icons {
+  float: right;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+  margin-top: 0.15rem;
+  position: relative;
+  z-index: 99999;
+}
+.carapace-title-icons a {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 99999;
+  pointer-events: auto;
+}
+.carapace-title-icons img {
+  display: block;
+  height: 26px;
+  width: auto;
+  pointer-events: auto;
+}
